@@ -1,0 +1,4 @@
+- Type: [[Book]]
+- Title: The Burnout Society
+- Author: [[Byung-Chul Han]]
+- Language: [[English]]

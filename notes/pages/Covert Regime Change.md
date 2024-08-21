@@ -1,0 +1,6 @@
+- Type: [[Audiobook]]
+- Title: Covert Regime Change
+- Subtitle: America's Secret Cold War
+- Author: [[Lindsey A. O'Rouke]]
+- Language: [[English]]
+-
