@@ -3,7 +3,9 @@
 - Subtitle: America's Secret Cold War
 - Author: [[Lindsey A. O'Rouke]]
 - Language: [[English]]
+- Finished: 2024-08-22
 -
 - I bough the book after listening to Pierce Morgan's interview with prof. John Mearsheimer. The discussion was about culpability of America and Russia in the current situation in Ukraine.
 - The professor's opinion was, that it all started much earlier than 2022, or even 2014, pointing at NATO summit in 2008. The host suggested that the US is spreading democracy so whatever they do is for the good. At that point Mearsheimer recommended this book to show that spreading democracy is not the deciding factor when the US decides to intervene or not.
 - The book paints a very interesting perspective, backed by research and review of declassified American documents, showing long history of covert, and sometimes overt interventions around the world motivated by the power struggle between America, and the Soviet Russia. The author argues, that there is no evidence that the American interventions are benevolent, motivated by the commitment to spreading democracy. In fact, even the economic argument, that they are motivated by the protection of western business doesn't hold. The record available, declassified, shows that the main motivator is the competition of two super-powers. To damage the oponents the US administrations, time and again, didn't have problems with supporting organisations with checkered track record. Sometimes it included supporting dictators and war criminals.
+- In the last chapter the discussion move beyond the cold war period. Interventions in Afganistan, Libia and Syria are covered briefly together with their unexpected, disastrous results. It is almost expected, as most of the previously discussed in detail cases lead to destabilisation of countries. Ukraine is covered explicitly too.
