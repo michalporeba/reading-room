@@ -1,0 +1,28 @@
+- My notes about books I read or listen to.
+- I often recommend books to others. These public notes hopefully will make it easier.
+-
+- I have started the notes in August 2024, but will capture books which I have read earlier.
+-
+- ## Currently in progress
+	- [[The Burnout Society]]
+	- [[1984 (Book)]]
+	- [[The Road]]
+	- [[97 Things Every Software Architect Should Know]]
+	-
+	-
+- ## Recently Read books
+	- [[Covert Regime Change]]
+	- [[Radical Candor]]
+	- [[Good Strategy / Bad Strategy]]
+	- [[Debt - The Frist 5,000 Years]]
+	- [[Fundamentals of Software Architecture]]
+-
+- ## Earlier books
+	- [[Short History of Modern Britain]] (May 2024)
+	- [[Peak Performance Under Pressure]] (April 2024)
+	- [[Slow Productivity]] (March 2024)
+	- [[Software Engineering at Google]] (March 2024)
+	- [[Hyper Focus]] (March 2024)
+	- [[Bullet Journal]] (March 2024)
+	-
+-
