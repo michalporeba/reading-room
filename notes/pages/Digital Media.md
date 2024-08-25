@@ -1,0 +1,30 @@
+# Regular
+-
+- [Deep Questions](https://calnewport.com/podcasts/)
+	- **Author**: [[Cal Newport]]
+	- **Language**: [[English (US)]]
+	- **Description**: Regular podcast covering topics explored in more depth in Cal's books.
+	-
+- [Historia Realna](https://www.youtube.com/@HISTORIAREALNA)
+	- **Author**: [[Piotr Zychowicz]]
+	- **Langauge**: [[Polish]]
+	- **Description**: An independent channel with regular, typically hour-long interviews about history and geopolitics.
+-
+- # Occasional
+- [Data Sceptic](https://dataskeptic.com/podcast)
+	- **Langauge**: [[English]]
+	- **Description**: Podcasts on topics relating to data and data technology. They are organised in relatively short seasons, each dedicated to a specific topic. The issues are discussed mostly through (mostly) academic literature.
+-
+- [The Resus Room](https://www.theresusroom.co.uk/)
+	- **Language**: [[English (UK)]]
+	- Description: Regular podcast on topics of critical care. It brings three perspectives of a doctor, a nurse, and a paramedic. I find especially the aspects of critical care in a pre-hospital setting interesting.
+	-
+- [Software Engineering Radio](https://se-radio.net/)
+	- **Language**: [[English]]
+	- **Description**: "*SE Radio* is a weekly software engineering podcast for professional software developers. Our goal is to be a lasting educational resource, not a newscast. Since 2006, we've been talking to experts from throughout the software engineering universe about the range of topics that matter to professional developers. Brought to you by *IEEE Computer Society* and *IEEE Software* magazine."
+-
+- [TechLead.Journal()](https://techleadjournal.dev/)
+	- **Author**: [[Henry Suryawirawan]]
+	- **Langauge**: [[English]]
+	- **Description**: "Great technical leadership requires more than just great coding skills. It requires a variety of other skills that are not well-defined, and they are not something that we can fully learn in any school or book. Hear from experienced technical leaders sharing their journey and philosophy for building great technical teams and achieving technical excellence. Find out what makes them great and how to apply those lessons to your work and team."
+	-

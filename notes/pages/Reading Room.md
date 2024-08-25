@@ -3,9 +3,13 @@
 -
 - I have started the notes in August 2024, but will capture books which I have read earlier.
 -
-- ## Currently in progress
+- ## Regular shorter forms I consume
+	- [[Digital Media]]
+	- Journals and Newsletters
+-
+- ## Books currently in progress
 	- [[The Burnout Society]]
-	- [[1984 (Book)]]
+	- [[Nineteen Eighty-Four]]
 	- [[The Road]]
 	- [[97 Things Every Software Architect Should Know]]
 	-
