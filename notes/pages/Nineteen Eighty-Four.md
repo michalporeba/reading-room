@@ -1,0 +1,14 @@
+## Attributes
+	- Type:: book
+	- Year::
+	- Language::
+	- [[Authors]]: [[George Orwell]]
+	- Title: 1984
+	- [[Topics]]: Fiction
+- ## Notes
+	- Recently I have heard fragments of 1984 on BBC 4. It was a radio adaptation, and I have heard only fragments, but it was enough to want to read the book again. It has been over two decades since the first, and only time I read a Polish translation of the book.
+	- A recent conversation with somebody about the necessity of the state to listen to conversations, and tracking its citizens prompted me to actually start it.
+	- The story is well known and described many times over.
+	- For me, the experience of re-reading it in the original language was a very interesting one. Knowing London as I do know, the story became much more relatable and interesting.
+	- I found interesting parallels between Orwell's fiction, and scholar thinking represented by political realism, especially [[John Mearsheimer]]'s description of struggle between world superpowers and the drive towards local hegemony.
+	- The appendix, which I didn't remember at all, contains explanation of the Newspeak and the principles behind me. It reminded me, to some degree of the principles (not purpose) behind Esperanto which I tried to learn on many occasions.
