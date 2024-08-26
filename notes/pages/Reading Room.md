@@ -10,11 +10,11 @@
 - ## Books currently in progress
 	- [[The Burnout Society]]
 	- [[The Anxious Generation]]
-	- [[The Road]]
+	- [[The Road]] - (very slow reading)
 	- [[97 Things Every Software Architect Should Know]]
 	-
 	-
-- ## Recently Read books
+- ## Recently read books
 	- [[Nineteen Eighty-Four]] (August 2024)
 	- [[Covert Regime Change]] (August 2024)
 	- [[Radical Candor]] (July 2024)
@@ -31,4 +31,5 @@
 	- [[Hyper Focus]] (March 2024)
 	- [[Bullet Journal]] (March 2024)
 	-
--
+- ## Raw notes
+	- The raw notes are in the daily entries in the Journals
