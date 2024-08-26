@@ -9,21 +9,23 @@
 -
 - ## Books currently in progress
 	- [[The Burnout Society]]
-	- [[Nineteen Eighty-Four]]
+	- [[The Anxious Generation]]
 	- [[The Road]]
 	- [[97 Things Every Software Architect Should Know]]
 	-
 	-
 - ## Recently Read books
-	- [[Covert Regime Change]]
-	- [[Radical Candor]]
-	- [[Good Strategy / Bad Strategy]]
-	- [[Debt - The Frist 5,000 Years]]
-	- [[Fundamentals of Software Architecture]]
+	- [[Nineteen Eighty-Four]] (August 2024)
+	- [[Covert Regime Change]] (August 2024)
+	- [[Radical Candor]] (July 2024)
+	- [[Good Strategy / Bad Strategy]] (July 2024)
+	- [[Debt - The Frist 5,000 Years]] (July 2024)
 -
 - ## Earlier books
+	- [[Fundamentals of Software Architecture]] (June 2024)
 	- [[Short History of Modern Britain]] (May 2024)
 	- [[Peak Performance Under Pressure]] (April 2024)
+	- [[Articulating Design Decisions]] (April 2024)
 	- [[Slow Productivity]] (March 2024)
 	- [[Software Engineering at Google]] (March 2024)
 	- [[Hyper Focus]] (March 2024)
