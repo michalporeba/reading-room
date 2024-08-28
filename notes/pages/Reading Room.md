@@ -11,14 +11,14 @@
 	- [[The Burnout Society]]
 	- [[The Anxious Generation]]
 	- [[The Road]] - (very slow reading)
-	- [[97 Things Every Software Architect Should Know]]
+	- [[97 Things Every Software Architect Should Know]] - (repeat)
 	-
 	-
 - ## Recently read books
 	- [[Nineteen Eighty-Four]] (August 2024)
 	- [[Covert Regime Change]] (August 2024)
 	- [[Radical Candor]] (July 2024)
-	- [[Good Strategy / Bad Strategy]] (July 2024)
+	- [[Good Strategy - Bad Strategy]] (July 2024)
 	- [[Debt - The Frist 5,000 Years]] (July 2024)
 -
 - ## Earlier books
@@ -32,4 +32,4 @@
 	- [[Bullet Journal]] (March 2024)
 	-
 - ## Raw notes
-	- The raw notes are in the daily entries in the Journals
+	- The raw notes are in the daily entries in the [:a {:href "#/all-journals"} "Journals"]
