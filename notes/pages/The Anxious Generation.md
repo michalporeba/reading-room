@@ -1,0 +1,20 @@
+## Attributes
+	- Type:: book
+	- Year:: 2024
+	- Language:: English
+	- Authors: Jonathan Haidt
+	- Title: The Anxious Generation
+	- Subtitle: How the Great Rewiring of Childhood Is Causing an Epidemic of Mental Illness
+	- [[Topics]]: Mental Health
+- ## Notes
+	- Why I picked it up?
+		- About a year and a half ago (early 2023) my work became rather chaotic and an attempt to keep up with all the messages, emails, Teams, Slack and such led to me being unable to read any more. I just couldn't keep the attention on the slower content. I already knew [[Cal Newport]]'s [[Deep Work]], but around that time I discovered his podcast [[Deep Questions]]. This led to me listening to Cal talking about how use of social media affects how we think, and how it affects mental health of teenagers ([episode 246](https://www.youtube.com/watch?v=7h7anorDy9A)).
+		- Recently discussing similar topics, I mentioned that podcast episode, and the book was recommended to me by a recent gradute who found it great at explaining her experiences through school and uni.
+	- What is it about?
+		- This is a popular science book written by professor of social studies. It seems very rigorous in the research provided but is written in a very approachable language.
+		- The book is about Generation Z, people born after 1995 who were 15 or younger at the time when smart phones were becoming popular (first iPhone was in 2007), social media changed with the introduction of the like button (Facebook, 2009) and the first smart phone with a front facing camera (2010)
+		- It explores how the chlidhood of gen Z have been different to previous generations, how a combination of factors led to change of that childhood from play-based to phone-based. Children are much more supervised than they used to be in the real world, and are let to their own devices in the virtual one. They should be more independent in the former, and more supervised in the latter.
+		- Boys and girls have been affected differently, but both groups have been affected significantly with their mental health suffering.
+		- The author proposes a range of changes parents, teachers but also legislators can, and should make to reverse the trend. He argues, that despite what people often say, it is not to make the necessary changes.
+	- What was the outcome?
+		- A very interesting book that fits well with my interests over the last year and a half or so. It points to a lot of research which I will try to explore in the future. Conveniently, there is a [companion website](https://www.anxiousgeneration.com/) where more information and links to further reading are available.
