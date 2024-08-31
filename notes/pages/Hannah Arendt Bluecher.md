@@ -1,0 +1,2 @@
+- German philosopher
+- Student of: [[Martin Heidegger]]
