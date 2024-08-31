@@ -7,7 +7,7 @@
 	- Type:: book
 	- Year:: 2010
 	- Language:: English
-	- Authors: John Nichol
+	- Authors: [[John Nichol]]
 	- Title: Medic
 	- Subtitle: Saving Lives - From Dunkirk to Afghanistan
 	- [[Topics]]:

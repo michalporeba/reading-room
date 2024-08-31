@@ -1,6 +1,7 @@
 ## Attributes
+	- qid:: Q208460
 	- Type:: book
-	- Year::
+	- Year:: 1949
 	- Language::
 	- [[Authors]]: [[George Orwell]]
 	- Title: 1984
