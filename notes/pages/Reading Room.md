@@ -32,5 +32,8 @@
 	- [[Hyper Focus]] (March 2024)
 	- [[Bullet Journal]] (March 2024)
 	-
-- ## Raw notes
+- ## Other
 	- The raw notes are in the daily entries in the [:a {:href "#/all-journals"} "Journals"]
+	- Ideas for what to read [next or later]([[Next or later]]).
+	-
+	-
