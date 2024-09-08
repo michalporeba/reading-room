@@ -11,4 +11,5 @@
 - Language:: English
 - Title: The Burnout Society
 - Author: [[Byung-Chul Han]]
+- Translator: [[Erik Butler]]
 -
