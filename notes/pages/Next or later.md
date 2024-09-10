@@ -1,2 +1,27 @@
-- {{query [[NEXT]]}}
-- {{query [[LATER]]}}
+# Next
+	- ## Things I really should read next
+		- Finish Five Lines of Code
+	- ## Things which are waiting on the bookshelf or elsewhere.
+		- Towards a Digital Renaissance. Jeremy Silver.
+		- The Art of Doing Science and Engineering. Learning to Learn. Richard W. Hamming.
+		- Notes on the Synthesis of Form. Alexander.
+		- Python Machine Learning. Sebastian Raschka, Vahid Mirjalili.
+		- Rick Stanton. Aquanaut.
+		- Code with the Wisdom of the Crowd.
+		- End of Abundance in Tech.
+		- Modernising Legacy Applications in the Public Sector.
+		- Building High Performance Agile Teams.
+		- Digitizing Government.
+		- The Service Organization. Kate Tarling.
+		- Ysgrifennu triawd
+		- The Art of Coding.
+		- Modern Data Engineering with Apache Spark
+		- Mastering Apache Spark by Cybellium
+		- Hooked - How to Build Habit-Forming Products. Nir Eyal.
+		-
+- # Quick review
+	- Books still on the bookshelf which probably don't have to be there. I should quickly skim read them and decide what to do with them. Keep them, or properly read them again, or just let them sit in the reference section. The original text is in the [[Bookshelf]]
+	- {{embed ((66e01063-cb97-4d0b-a939-e676f7115d9e))}}
+- # Later
+	- The below is a dynamic list of things I tagged as LATER in my notes
+	- {{query [[LATER]]}}
