@@ -1,6 +1,10 @@
 # Unread
 - Ysgrifennu triawd - Canolfan Gwasanaethau Cyhoeddus Digidol (CDPS)
 - The Art of Coding - The Language of Drawing, Graphics, and Animation
+- The Power of Full Engagement. Jim Loehr, Tony Schwartz.
+- Bring Home the Revolution. Jonathan Freedland.
+- Hypothermia - Clinical Aspects of Body Cooling
+- 100 Ideas that changed The Web
 - # Read Again
 - # Keep
 - Remote Team Interactions Workbook
@@ -26,6 +30,15 @@
 	- Pandas Workbook
 	- Database Design and Modeling with Google Cloud
 	- Concurrent Data Processing in Elixir
+	- Exam Ref AZ-300. Microsoft Azure Architect Technologies
+	- Exam Ref AZ-303. Microsoft Azure Architect Technologies
+	- Exam Ref 70-533. Implementing Microsoft Azure Infrastructure Solutions
+	- Exam Ref 70-535. Architecting icrosoft Azure Solutions.
+	- Exam Ref 70-774. Perform Cloud Data Science with Azure Machine Learning
+	- AWS for Solutions Architects
+	- Microsoft Azure Architect Technologies: Exam Guide AZ-300
+	- Azure for Architects Third Edition
+	- Programming Reactive Extensions and LINQ. Liberty Betts
 - # To Remove
 - Cryptography Engineering - Design Principles and Practical Applications. Niels Ferguson, Bruce Schneier, Tadayoshi Kohno
 - Cloud Native Infrastructure - Patterns for Scalable Infrastructure and Applications in a Dynamic Environment. Justin Garrison, Kris Nova
@@ -40,6 +53,14 @@
 - Pro ASP.Net MVC 5 Platform. Adam Freeman. 2014.
 - Entity Framework 6 Recipes. Brian Driscoll, Ntin Gupta, Robert Vettor, Zeeshan Hirani, Larry Tenny.
 - MySQL and JSON: A Practical Programming Guide. David Stokes. 2017?
+- Exam Ref 70-532. Developing Microsoft Azure Solutions.
+- AWS Certified Data Analytics - Study Guide
+- AWS Certified Cloud Practitioner - Study Guide
+- Software Architecture with C# 9 and .NET 5
+- ASP.NET Design Patterns
+- Design Patterns in .NET Core 3
+- Lean Six Sigma - 3 books in 1. James Turner.
+- Async in C# 5.0 (O'Reilly)
 -
 - # Removed
 - June 2021
