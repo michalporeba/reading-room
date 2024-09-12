@@ -38,7 +38,9 @@
 	- AWS for Solutions Architects
 	- Microsoft Azure Architect Technologies: Exam Guide AZ-300
 	- Azure for Architects Third Edition
+	- Programming for Musicians and Digital Artists - Creating music with ChucK. Ajay Kapur. Perry Cook. Spencer Salazar. Ge Wang.
 	- Programming Reactive Extensions and LINQ. Liberty Betts
+	-
 - # To Remove
 - Cryptography Engineering - Design Principles and Practical Applications. Niels Ferguson, Bruce Schneier, Tadayoshi Kohno
 - Cloud Native Infrastructure - Patterns for Scalable Infrastructure and Applications in a Dynamic Environment. Justin Garrison, Kris Nova
@@ -61,6 +63,7 @@
 - Design Patterns in .NET Core 3
 - Lean Six Sigma - 3 books in 1. James Turner.
 - Async in C# 5.0 (O'Reilly)
+-
 -
 - # Removed
 - June 2021
