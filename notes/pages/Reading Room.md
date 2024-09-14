@@ -8,13 +8,13 @@
 	- Journals and Newsletters
 -
 - ## Books currently in progress
-	- [[The Burnout Society]]
 	- [[Medic]]
 	- [[The Road]] - (very slow reading)
 	- [[97 Things Every Software Architect Should Know]] - (repeat)
 	-
 	-
 - ## Recently read books
+	- [[The Burnout Society]] (September 2024)
 	- [[The Anxious Generation]] (August 2024)
 	- [[Nineteen Eighty-Four]] (August 2024)
 	- [[Covert Regime Change]] (August 2024)
