@@ -5,6 +5,8 @@
 - Bring Home the Revolution. Jonathan Freedland.
 - Hypothermia - Clinical Aspects of Body Cooling
 - 100 Ideas that changed The Web
+- Standard for Public Code
+- Job Stacking
 - # Read Again
 - # Keep
 - Remote Team Interactions Workbook
