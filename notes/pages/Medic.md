@@ -1,9 +1,4 @@
-- NOW reading
-  :LOGBOOK:
-  CLOCK: [2024-08-30 Fri 17:06:41]
-  CLOCK: [2024-08-30 Fri 17:06:44]
-  :END:
-- ## Attributes
+## Attributes
 	- Type:: book
 	- Year:: 2010
 	- Language:: English
@@ -12,6 +7,7 @@
 	- Subtitle: Saving Lives - From Dunkirk to Afghanistan
 	- [[Topics]]:
 - ## Notes
-	- Why I picked it up?
-	- What is it about?
-	- What was the outcome?
+- The book explores the history but also the progress of battlefield medicine from the Second World War, evacuation of Dunkirk, to Afghanistan, from the perspective of the British Armed Forces.
+- The book is structured around individual stories of medics, from stretcher bearers, to doctors. Occasionally, stories of specific casualties are added, but the focus is on the experiences of the medics.
+- Along the way the ever changing capability of medical teams, and survivability of the casualties is explain with a lot of detail of injuries sustain.
+- The last chapter picks up many of the earlier introduced stories to focus on the mental impact the wars have on all soldiers, but especially on the medics.
