@@ -1,4 +1,5 @@
 # Unread
+- Supremacy by Palmy Olson
 - Ysgrifennu triawd - Canolfan Gwasanaethau Cyhoeddus Digidol (CDPS)
 - The Art of Coding - The Language of Drawing, Graphics, and Animation
 - The Power of Full Engagement. Jim Loehr, Tony Schwartz.
