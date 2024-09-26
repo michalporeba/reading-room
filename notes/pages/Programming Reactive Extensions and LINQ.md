@@ -1,0 +1,23 @@
+- DONE
+- ## Attributes
+	- Type:: book
+	- Year:: 2011
+	- Language:: English
+	- isbn:: 9781430237471
+	- Authors: [[Jesse Liberty]], [[Paul Betts]]
+	- Title: Programming Reactive Extensions and LINQ
+	- Subtitle: Dive Deep Into the Next Important .Net Technology
+	- Publisher: [[Apress]]
+	- [[Topics]]: [[.Net]], [[C#]], [[Programming]], [[Functional-Programming]]
+- ## Notes
+- A book from 2011, clearly of its time when functional programming was talked about in the .Net and C# circles. F# was first released in 2005, LINQ - the Language Integrated Query was introduced in 2007. The introduction captures the discussions around the time well:
+  [[Quote]]: Right now, we as programmers are at an impasse - a transition period between the well-understood world of imperative programming, and a world that is increasingly at odds with the model. In the '80s, everything was simple: one machine, one thread, no network.
+	- The above quote clearly shows a certain perspective, a Microsoft point of view. It ignores not only object orientation, but also a reach history of functional based languages, and the distributed computing possible with Erlang since 1986.
+- The book showcases the LINQ language extension and the benefits of the functional thinking over the traditional imperative methods for dealing with collections.
+- It also introduces the reactive extensions. Technique based on the observable pattern implementation (the authors directly quote the pattern from the [[Design Patterns]] book). It was intended for Windows Phone programming the first time in the Microsoft environment where asynchronous programming was strongly recommended if not outright required. (Other technologies avoided explicit asynchronous code - WebForms, for example, hided all the asynchrony of web requests).
+- [[Quote]]: The lifeblood of Rx is managing asynchronous tasks without the indirection and potential confusion of non-Rx C# programms. Without Rx, it is common to have asynchronous callbacks that make asynchronous calls to other asynchronous callbacks. creating spaghetti code; the very reason we don't use GoTo very much anymore. With Rx your asynchronous code can be packed into a single method, making for more readable and maintainable code.
+	- At the time the most common asynchronous patter in .Net was Begin/End one. The async/await pattern was not easily accessible until the introduction of the async/await keywords in until C# 5 released in 2012. Asynchronous patterns are covered in [[Async in C# 5.0]]
+- The Rx (reactive) code in C# was never widely adopted, but looking at it now, it looks very similar to how flutter and the way in which flutter subscribes to streams to render UI components.
+- LINQ to SQL is introduced in a separate part of the book.
+- RxJS takes another section. A JavaScript library compatible with Rx for C#
+- Chapter 8 - ReactiveUI covers the Model-View-ViewModel pattern to show how combination of XAML based UI, data binding and reactive programming can simplify building UI components.

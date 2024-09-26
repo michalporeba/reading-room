@@ -5,7 +5,7 @@
 	- Language::
 	- [[Authors]]: [[George Orwell]]
 	- Title: 1984
-	- [[Topics]]: Fiction
+	- [[Topics]]: [[Fiction]]
 - ## Notes
 	- Recently I have heard fragments of 1984 on BBC 4. It was a radio adaptation, and I have heard only fragments, but it was enough to want to read the book again. It has been over two decades since the first, and only time I read a Polish translation of the book.
 	- A recent conversation with somebody about the necessity of the state to listen to conversations, and tracking its citizens prompted me to actually start it.

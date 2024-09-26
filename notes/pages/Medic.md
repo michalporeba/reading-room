@@ -5,7 +5,7 @@
 	- Authors: [[John Nichol]]
 	- Title: Medic
 	- Subtitle: Saving Lives - From Dunkirk to Afghanistan
-	- [[Topics]]:
+	- [[Topics]]: [[Missing-Topics]]
 - ## Notes
 - The book explores the history but also the progress of battlefield medicine from the Second World War, evacuation of Dunkirk, to Afghanistan, from the perspective of the British Armed Forces.
 - The book is structured around individual stories of medics, from stretcher bearers, to doctors. Occasionally, stories of specific casualties are added, but the focus is on the experiences of the medics.

@@ -13,6 +13,7 @@
 	-
 	-
 - ## Recently read books
+	- [[Programming Reactive Extensions and LINQ]] (September 2024) [[Second Take]]
 	- [[Medic]] (September 2024)
 	- [[The Burnout Society]] (September 2024)
 	- [[The Anxious Generation]] (August 2024)

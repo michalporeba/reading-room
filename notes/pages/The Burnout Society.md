@@ -12,4 +12,4 @@
 - Title: The Burnout Society
 - Author: [[Byung-Chul Han]]
 - Translator: [[Erik Butler]]
--
+- [[Topics]]: [[Philosphy]], [[Mental Health]], [[Burnout]]

@@ -5,7 +5,7 @@
 	- Authors: Jonathan Haidt
 	- Title: The Anxious Generation
 	- Subtitle: How the Great Rewiring of Childhood Is Causing an Epidemic of Mental Illness
-	- [[Topics]]: Mental Health
+	- [[Topics]]: [[Mental Health]]
 - ## Notes
 	- Why I picked it up?
 		- About a year and a half ago (early 2023) my work became rather chaotic and an attempt to keep up with all the messages, emails, Teams, Slack and such led to me being unable to read any more. I just couldn't keep the attention on the slower content. I already knew [[Cal Newport]]'s [[Deep Work]], but around that time I discovered his podcast [[Deep Questions]]. This led to me listening to Cal talking about how use of social media affects how we think, and how it affects mental health of teenagers ([episode 246](https://www.youtube.com/watch?v=7h7anorDy9A)).
