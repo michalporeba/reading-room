@@ -7,13 +7,11 @@
 - ## Regular shorter forms I consume
 	- [[Digital Media]]
 	- Journals and Newsletters
--
 - ## Books currently in progress
 	- [[Supremacy]]
+	- [[Learn French with Paul Noble for Beginners - Complete Course]]
 	- [[The Road]] - (very slow reading)
 	- [[97 Things Every Software Architect Should Know]] - (repeat)
-	-
-	-
 - ## Recently read books
 	- [[Programming Reactive Extensions and LINQ]] (September 2024) [[Second Take]]
 	- [[Medic]] (September 2024)
@@ -24,7 +22,6 @@
 	- [[Radical Candor]] (July 2024)
 	- [[Good Strategy - Bad Strategy]] (July 2024)
 	- [[Debt - The Frist 5,000 Years]] (July 2024)
--
 - ## Earlier books
 	- [[Fundamentals of Software Architecture]] (June 2024)
 	- [[Short History of Modern Britain]] (May 2024)
@@ -34,7 +31,6 @@
 	- [[Software Engineering at Google]] (March 2024)
 	- [[Hyper Focus]] (March 2024)
 	- [[Bullet Journal]] (March 2024)
-	-
 - ## Other
 	- The raw notes are in the daily entries in the [:a {:href "#/all-journals"} "Journals"]
 	- Ideas for what to read [next or later]([[Next or later]]).
