@@ -13,6 +13,7 @@
 	- [[The Road]] - (very slow reading)
 	- [[97 Things Every Software Architect Should Know]] - (repeat)
 - ## Recently read books
+	- [[Async in C# 5.0]] (September 2024) [[Second Take]]
 	- [[Programming Reactive Extensions and LINQ]] (September 2024) [[Second Take]]
 	- [[Medic]] (September 2024)
 	- [[The Burnout Society]] (September 2024)

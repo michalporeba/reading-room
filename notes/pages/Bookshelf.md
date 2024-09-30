@@ -64,7 +64,7 @@
 - ASP.NET Design Patterns
 - Design Patterns in .NET Core 3
 - Lean Six Sigma - 3 books in 1. James Turner.
-- Async in C# 5.0 (O'Reilly)
+- [[Async in C# 5.0]] (O'Reilly)
 - Programming Reactive Extensions and LINQ. Liberty Betts
 -
 -
