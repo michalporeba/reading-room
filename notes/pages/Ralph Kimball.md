@@ -1,0 +1,1 @@
+- PhD in 1973 from [[Stanford University]] in electrical engineering (specializing in man-machine systems)
