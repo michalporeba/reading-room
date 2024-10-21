@@ -8,11 +8,13 @@
 	- [[Digital Media]]
 	- Journals and Newsletters
 - ## Books currently in progress
-	- [[Supremacy]]
+	- [[Chip War]]
 	- [[Learn French with Paul Noble for Beginners - Complete Course]]
 	- [[The Road]] - (very slow reading)
 	- [[97 Things Every Software Architect Should Know]] - (repeat)
 - ## Recently read books
+	- [[Building a Scalable Data Warehouse with Data Vault 2.0]] (October 2024) [[Second Take]]
+	- [[Supremacy]] (October 2024)
 	- [[Async in C# 5.0]] (September 2024) [[Second Take]]
 	- [[Programming Reactive Extensions and LINQ]] (September 2024) [[Second Take]]
 	- [[Medic]] (September 2024)
