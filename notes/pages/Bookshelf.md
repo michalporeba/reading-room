@@ -1,5 +1,4 @@
 # Unread
-- Supremacy by Palmy Olson
 - Ysgrifennu triawd - Canolfan Gwasanaethau Cyhoeddus Digidol (CDPS)
 - The Art of Coding - The Language of Drawing, Graphics, and Animation
 - The Power of Full Engagement. Jim Loehr, Tony Schwartz.
@@ -11,7 +10,7 @@
 - # Read Again
 - # Keep
 - Remote Team Interactions Workbook
-- # Review and (probably )Remove
+- # Review and (probably) Remove
   id:: 66e01063-cb97-4d0b-a939-e676f7115d9e
 	- Kafka: The Definitive Guide: Real-time Data and Stream Processing at Scale. Neha Narkhede, Gwen Shapira, Todd Palino. First edition. 2017
 	- High-Impact Tools for Teams. Stefano Mastrogiacomo, Alex Osterwalder. 2021
@@ -44,7 +43,6 @@
 	- Programming for Musicians and Digital Artists - Creating music with ChucK. Ajay Kapur. Perry Cook. Spencer Salazar. Ge Wang.
 	-
 - # To Remove
-- Cryptography Engineering - Design Principles and Practical Applications. Niels Ferguson, Bruce Schneier, Tadayoshi Kohno
 - Cloud Native Infrastructure - Patterns for Scalable Infrastructure and Applications in a Dynamic Environment. Justin Garrison, Kris Nova
 - Cassandra: The Definitive Guide - Distributed Data at Web Scale. Jeff Carpenter, Eben Hewitt. 2nd Edition. 2016
 - Digital Body Language - Deciphering Customer Intentions in an Online World. Steven Woods. 2009
@@ -69,6 +67,8 @@
 -
 -
 - # Removed
+- November 2024
+	- Cryptography Engineering - Design Principles and Practical Applications. Niels Ferguson, Bruce Schneier, Tadayoshi Kohno
 - June 2021
 	- ASP.Net Core Application Development https://www.microsoftpressstore.com/store/asp.net-core-application-development-building-an-application-9781509304080
 	- Programming ASP.Net Core https://www.amazon.co.uk/Programming-ASP-NET-Core-Developer-Reference-ebook/dp/B07CVM27L9
