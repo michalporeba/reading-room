@@ -6,7 +6,7 @@
 	- Authors: [[Mayank Malhotra]]
 	- Title: Ultimate Data Engineering with Databricks
 	- Subtitle:
-	- [[Topics]]: [[Data]] [[Engineering]]
+	- [[Topics]]: [[Data]], [[Engineering]], [[Databricks]]
 - ## Notes
 	- A book I picked up hoping to learn more about specific Databricks solutions to organise better work around a Databricks platform.
 	- Unfortunately, the book is primarily about basics of working with data, with a lot of good, but basic explanations, for example what is data quality and why it matters.
