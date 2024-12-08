@@ -8,6 +8,7 @@
 	- [[Digital Media]]
 	- Journals and Newsletters
 - ## Books currently in progress
+	- [[Modern Data Engineering with Apache Spark]]
 	- [[Kafka: The Definitive Guide]]
 	- [[The Road]] - (very slow reading)
 	- [[97 Things Every Software Architect Should Know]] - (repeat)
