@@ -1,0 +1,13 @@
+- DONE
+- ## Attributes
+	- Type:: book
+	- Year:: [[2017]]
+	- Language:: [[English]]
+	- Authors: [[Neha Narkhede]], [[Gwen Shapira]], [[Todd Palino]]
+	- Title: Kafka: The Definitive Guide
+	- Subtitle: Real-Time Data and Stream Processing at Scale
+	- [[Topics]]: [[Data]] [[Engineering]] [[Stream Processing]] [[Kafka]]
+- ## Notes
+- A book I picked up probably about 6 years ago ([[2018]]) as I was look at the time at various message based systems in the context of the project in work. In the end we chose [[Rabbit MQ]] and either I didn't read the book in the end, or don't remember doing so.
+- Despite the fact, that the book describes version 0.10 of [[Kafka]], and so there are technical details which are no longer accurate, the book has a lot of extra information about stream processing in general, which is still very valid.
+- [[Neha Narkhede]], one of the authors, worked on [[Kafka]] at [[LinkedIn]] in the team led by [[Jay Kreps]] and so includes interesting insights about the inception of the project and problems it was trying to solve.

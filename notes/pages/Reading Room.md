@@ -9,10 +9,10 @@
 	- Journals and Newsletters
 - ## Books currently in progress
 	- [[Modern Data Engineering with Apache Spark]]
-	- [[Kafka: The Definitive Guide]]
 	- [[The Road]] - (very slow reading)
 	- [[97 Things Every Software Architect Should Know]] - (repeat)
 - ## Recently read books
+	- [[Kafka: The Definitive Guide]] (December 2024)
 	- [[Data Engineering with Databricks Cookbook]] (December 2024)
 	- [[Ultimate Data Engineering with Databricks]] (December 2024)
 	- [[Learn French with Paul Noble for Beginners - Complete Course]] (October 2024)
