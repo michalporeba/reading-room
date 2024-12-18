@@ -1,0 +1,1 @@
+- A military attack on small groups of individual based not on their identity, but the pattern of their behaviour.

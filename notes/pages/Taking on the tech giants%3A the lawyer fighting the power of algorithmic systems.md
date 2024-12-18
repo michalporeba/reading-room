@@ -1,0 +1,3 @@
+- https://www.theguardian.com/media/2021/feb/28/taking-on-the-tech-giants-whether-its-the-cia-or-facebook-cori-crider-likes-a-fight
+- Article by [[Ed Siddons]] published in [[The Guardian]] on [[2021-02-28]]
+- It is about the psychological damages suffered by content moderators, which might be similar to those that torture victims suffer. The comparison is made by [[Cori Crider]], a lawyer who spent 15 years defending [[Guantanamo Bay]] detainees.
