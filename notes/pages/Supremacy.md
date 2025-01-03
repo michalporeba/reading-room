@@ -9,7 +9,7 @@
 	- Year:: 2024
 	- Language:: English
 	- isbn:: 9781250337740
-	- Authors: [[Palmy Olsen]]
+	- Authors: [[Palmy Olson]]
 	- Title: Supremacy
 	- Subtitle: AI, ChatGPT, and the Race that Will Change the World
 	- [[Topics]]: [[AI]]

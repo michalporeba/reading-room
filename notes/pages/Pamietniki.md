@@ -1,0 +1,2 @@
+- Przedmowa - [[Janusz Tazbir]]
+- Wstep i objasnienia - [[Wladyslaw Czaplinski]]
