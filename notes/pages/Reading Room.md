@@ -2,44 +2,50 @@
 - I often recommend books to others.
 - These public notes hopefully will make it easier.
 -
-- I have started the notes in August 2024, but will capture books which I have read earlier.
+- I have started the notes in August 2024, but captured books which I have read or listened to earlier.
 -
 - ## Regular shorter forms I consume
 	- [[Digital Media]]
 	- Journals and Newsletters
 - ## Books currently in progress
+	- [[Pamietniki]]
+	- [[Bullshit Jobs: A Theory]]
 	- [[Modern Data Engineering with Apache Spark]]
 	- [[The Road]] - (very slow reading)
 	- [[97 Things Every Software Architect Should Know]] - (repeat)
 - ## Recently read books
-	- [[Code Dependant]] (December 2024)
-	- [[The Power of Geography]] (December 2024)
-	- [[Kafka: The Definitive Guide]] (December 2024)
-	- [[Data Engineering with Databricks Cookbook]] (December 2024)
-	- [[Ultimate Data Engineering with Databricks]] (December 2024)
-	- [[Learn French with Paul Noble for Beginners - Complete Course]] (October 2024)
-	- [[Chip War]] (October 2024)
-	- [[Building a Scalable Data Warehouse with Data Vault 2.0]] (October 2024) [[Second Take]]
-	- [[Supremacy]] (October 2024)
 - ## Earlier books
-	- [[Fundamentals of Software Architecture]] (June 2024)
-	- [[Async in C# 5.0]] (September 2024) [[Second Take]]
-	- [[Programming Reactive Extensions and LINQ]] (September 2024) [[Second Take]]
-	- [[Medic]] (September 2024)
-	- [[The Burnout Society]] (September 2024)
-	- [[The Anxious Generation]] (August 2024)
-	- [[Nineteen Eighty-Four]] (August 2024)
-	- [[Covert Regime Change]] (August 2024)
+- ## 2024
+	- [[Code Dependent]] (December [[2024]])
+	- [[The Power of Geography]] (December [[2024]])
+	- [[Kafka: The Definitive Guide]] (December [[2024]])
+	- [[Data Engineering with Databricks Cookbook]] (December [[2024]])
+	- [[Ultimate Data Engineering with Databricks]] (December [[2024]])
+	- [[Learn French with Paul Noble for Beginners - Complete Course]] (October [[2024]])
+	- [[Chip War]] (October [[2024]])
+	- [[Building a Scalable Data Warehouse with Data Vault 2.0]] (October [[2024]]) [[Second Take]]
+	- [[Supremacy]] (October [[2024]])
+	- [[Fundamentals of Software Architecture]] (June [[2024]])
+	- [[Async in C# 5.0]] (September [[2024]]) [[Second Take]]
+	- [[Programming Reactive Extensions and LINQ]] (September [[2024]]) [[Second Take]]
+	- [[Medic]] (September [[2024]])
+	- [[The Burnout Society]] (September [[2024]])
+	- [[The Anxious Generation]] (August [[2024]])
+	- [[Nineteen Eighty-Four]] (August [[2024]])
+	- [[Covert Regime Change]] (August [[2024]])
 	- [[Radical Candor]] (July 2024)
-	- [[Good Strategy - Bad Strategy]] (July 2024)
-	- [[Debt - The Frist 5,000 Years]] (July 2024)
-	- [[Short History of Modern Britain]] (May 2024)
-	- [[Peak Performance Under Pressure]] (April 2024)
-	- [[Articulating Design Decisions]] (April 2024)
-	- [[Slow Productivity]] (March 2024)
-	- [[Software Engineering at Google]] (March 2024)
-	- [[Hyper Focus]] (March 2024)
-	- [[Bullet Journal]] (March 2024)
+	- [[Good Strategy - Bad Strategy]] (July [[2024]])
+	- [[Debt - The Frist 5,000 Years]] (July [[2024]])
+	- [[Short History of Modern Britain]] (May [[2024]])
+	- [[Peak Performance Under Pressure]] (April [[2024]])
+	- [[Articulating Design Decisions]] (April [[2024]])
+	- [[Slow Productivity]] (March [[2024]])
+	- [[Software Engineering at Google]] (March [[2024]])
+	- [[Hyper Focus]] (March [[2024]])
+	- [[Bullet Journal]] (March [[2024]])
+	- [[Please Unsubscribe, Thanks!]] (February [[2024]])
+	- [[Building a Second Brain]] (February [[2024]])
+	- [[Elon Musk (Book)]] (January [[2024]])
 - ## Other
 	- The raw notes are in the daily entries in the [:a {:href "#/all-journals"} "Journals"]
 	- Ideas for what to read [next or later]([[Next or later]]).

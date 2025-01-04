@@ -1,0 +1,15 @@
+- DONE
+- ## Attributes
+	- Type:: book
+	- Year:: [[2024]]
+	- Language:: [[English]]
+	- Authors: [[Madhumita M Muriga]]
+	- Title: Code Dependent
+	- Subtitle: How AI is Changing Our Lives
+	- [[Topics]]: [[AI]], [[Ethics]], [[Sociology]]
+- ## Notes
+- I picked up the book, drawn in by the title. At the time I was attending a series of lectures by [[John V Tucker]] at [[Swansea University]] about the history and impact of computing. I was expecting the book to be on our dependency on computing and coding. It wasn't.
+-
+- The book is about AI and how it is changing our lives, as the subtitle suggests. It is very interesting as it presents the societal changes the AI is bringing through a number of very specific, real people stories from around the world.
+-
+- The book talks a lot about [[Data Colonialism]] or [[Digital Colonialism]] and negative impacts of the technology which exacerbates the inequality around the world. While AI brings many positive aspects to the first world, it does so at the cost of people in the third world countries. The same as previous [[Colonialism]]s have done.
